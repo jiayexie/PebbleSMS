@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PebbleSMS</string>
+    <string name="action_new_entry">New Entry</string>
+    <string name="action_save">Save</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="no_contact_selected">No contact selected.</string>
+    
+    
+    <string name="hint_entry_title">Please specify how this entry appears on your Pebble Watch:</string>
+    <string name="hint_sms_content">SMS Content:</string><string name="hint_recipients">Recipient(s) of the SMS:</string><string name="error_no_contact_selected">Please select a contact for this SMS entry.</string>
+    <string name="error_no_title_specified">Please specify a title for this entry.</string>
+    <string name="sms_suffix">[This message is sent from Pebble Watch.]</string>
+    <string name="tap_to_add_contact">Tap here to add new contact.</string>
+    <string name="menu_edit_contact">Edit</string>
+    <string name="menu_delete_contact">Delete</string>
+    <string name="menu_delete_entry">Delete</string>
+    <string name="check_include_location">Include my current location.</string>
+    
+
+</resources>
